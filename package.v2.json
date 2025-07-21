@@ -10,5 +10,17 @@
     "history": {
       "v4.3.3.1": "init"
     }
+  },
+  "MyTestPlugin": {
+    "name": "测试插件",
+    "description": "定时清理用户下载的种子、源文件、媒体库文件。",
+    "labels": "刷流,仪表板",
+    "version": "4.3.3.1",
+    "icon": "clean.png",
+    "author": "jxxghp,InfinityPacer",
+    "level": 2,
+    "history": {
+      "2.2": "init"
+    }
   }
 }
