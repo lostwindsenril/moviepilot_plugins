@@ -654,10 +654,10 @@ class ProcessManager:
 class MCPServer(_PluginBase, metaclass=SingletonClass):
     plugin_name = "MCP Server"
     plugin_desc = "使用MCP客户端通过大模型来操作MoviePilot"
-    plugin_icon = "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/mcp.png"
+    plugin_icon = "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/mcp.png"
     plugin_version = "2.3"
-    plugin_author = "DzAvril"
-    author_url = "https://github.com/DzAvril"
+    plugin_author = "DzBvril"
+    author_url = "https://github.com/DzBvril"
     plugin_config_prefix = "mcpserver_"
     plugin_order = 0
     auth_level = 1

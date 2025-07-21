@@ -93,17 +93,17 @@ const mockApi = {
           {
             id: 'testplugin1',
             name: 'TestPlugin1',
-            icon: 'https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
+            icon: 'https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
           },
           {
             id: 'testplugin2',
             name: 'TestPlugin2',
-            icon: 'https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
+            icon: 'https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
           },
           {
             id: 'testplugin3',
             name: 'TestPlugin3',
-            icon: 'https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
+            icon: 'https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
           }
         ]
       }
@@ -133,7 +133,7 @@ const mockDashboardConfig = {
     border: true,
     title: '插件热度监控',
     subtitle: '实时监控插件下载量增长趋势',
-    icon: 'https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
+    icon: 'https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png'
   }
 }
 </script>

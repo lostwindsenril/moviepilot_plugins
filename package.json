@@ -5,7 +5,7 @@
         "labels": "文件整理",
         "version": "2.5",
         "icon": "Ombi_A.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "v2": true,
         "history": {
@@ -27,7 +27,7 @@
         "labels": "下载管理,Qbittorrent",
         "version": "1.6",
         "icon": "Qbittorrent_A.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "history": {
             "v1.6": "支持qbittorrent 5",
@@ -41,7 +41,7 @@
         "labels": "系统设置",
         "version": "1.1",
         "icon": "ipAddress.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "v2": true
     },
@@ -51,7 +51,7 @@
         "labels": "做种",
         "version": "1.4",
         "icon": "contract.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "history": {
             "v1.4": "支持仪表板组件显示",
@@ -66,7 +66,7 @@
         "labels": "Qbittorrent",
         "version": "2.2",
         "icon": "clean_a.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "history": {
             "v2.2": "支持仅标记模式",
@@ -90,7 +90,7 @@
         "labels": "媒体库",
         "version": "1.7",
         "icon": "zvideo.png",
-        "author": "DzAvril",
+        "author": "DzBvril",
         "level": 1,
         "v2": true,
         "history": {

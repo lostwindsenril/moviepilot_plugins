@@ -21,10 +21,10 @@ class SiliconKeyManager(_PluginBase):
 
     plugin_name = "硅基KEY管理"
     plugin_desc = "管理硅基流API keys，支持余额检查、自动清理、分类管理等功能"
-    plugin_icon = "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/siliconkey.png"
+    plugin_icon = "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/siliconkey.png"
     plugin_version = "1.2"
-    plugin_author = "DzAvril"
-    author_url = "https://github.com/DzAvril"
+    plugin_author = "DzBvril"
+    author_url = "https://github.com/DzBvril"
     plugin_config_prefix = "siliconkeymanager_"
     plugin_order = 21
     auth_level = 1

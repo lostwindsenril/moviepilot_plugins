@@ -26,13 +26,13 @@ class QbCommand(_PluginBase):
     # 插件描述
     plugin_desc = "通过定时任务或交互命令远程操作qBittorrent/Transmission暂停/开始/限速等"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/qb_tr.png"
+    plugin_icon = "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/qb_tr.png"
     # 插件版本
     plugin_version = "2.3"
     # 插件作者
-    plugin_author = "DzAvril"
+    plugin_author = "DzBvril"
     # 作者主页
-    author_url = "https://github.com/DzAvril"
+    author_url = "https://github.com/DzBvril"
     # 插件配置项ID前缀
     plugin_config_prefix = "qbcommand_"
     # 加载顺序

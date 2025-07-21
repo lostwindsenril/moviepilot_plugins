@@ -236,7 +236,7 @@ return (_ctx, _cache) => {
                               }, {
                                 default: _withCtx(() => [
                                   _createVNode(_component_v_img, {
-                                    src: "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/siliconkey.png",
+                                    src: "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/siliconkey.png",
                                     alt: "Silicon Key Logo"
                                   }, {
                                     placeholder: _withCtx(() => [
@@ -434,7 +434,7 @@ return (_ctx, _cache) => {
                     }, {
                       default: _withCtx(() => [
                         _createVNode(_component_v_img, {
-                          src: "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/siliconkey.png",
+                          src: "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/siliconkey.png",
                           alt: "Silicon Key Logo"
                         }, {
                           placeholder: _withCtx(() => [

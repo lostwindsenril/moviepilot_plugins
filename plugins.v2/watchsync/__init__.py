@@ -122,13 +122,13 @@ class WatchSync(_PluginBase):
     # 插件描述
     plugin_desc = "在不同用户之间同步观看记录（自用插件，不保证兼容性）"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/emby_watch_sync.png"
+    plugin_icon = "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/emby_watch_sync.png"
     # 插件版本
     plugin_version = "1.0"
     # 插件作者
-    plugin_author = "DzAvril"
+    plugin_author = "DzBvril"
     # 作者主页
-    author_url = "https://github.com/DzAvril"
+    author_url = "https://github.com/DzBvril"
     # 插件配置项ID前缀
     plugin_config_prefix = "watchsync_"
     # 加载顺序

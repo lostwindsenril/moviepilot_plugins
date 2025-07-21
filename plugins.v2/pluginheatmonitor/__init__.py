@@ -22,10 +22,10 @@ class PluginHeatMonitor(_PluginBase):
 
     plugin_name = "插件热度监控"
     plugin_desc = "监控已安装的下载量热度，支持日历热力图可视化"
-    plugin_icon = "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png"
+    plugin_icon = "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png"
     plugin_version = "1.5"
-    plugin_author = "DzAvril"
-    author_url = "https://github.com/DzAvril"
+    plugin_author = "DzBvril"
+    author_url = "https://github.com/DzBvril"
     plugin_config_prefix = "pluginheatmonitor_"
     plugin_order = 20
     auth_level = 1

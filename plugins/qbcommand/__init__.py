@@ -29,9 +29,9 @@ class QbCommand(_PluginBase):
     # 插件版本
     plugin_version = "1.6"
     # 插件作者
-    plugin_author = "DzAvril"
+    plugin_author = "DzBvril"
     # 作者主页
-    author_url = "https://github.com/DzAvril"
+    author_url = "https://github.com/DzBvril"
     # 插件配置项ID前缀
     plugin_config_prefix = "qbcommand_"
     # 加载顺序

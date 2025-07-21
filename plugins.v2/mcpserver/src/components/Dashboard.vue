@@ -20,7 +20,7 @@
                 <div class="d-flex align-center">
                   <v-avatar size="40" class="mr-3 plugin-logo">
                     <v-img
-                      src="https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/mcp.png"
+                      src="https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/mcp.png"
                       alt="MCP Logo"
                       :lazy-src="'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+'"
                     >
@@ -117,7 +117,7 @@
           <div class="d-flex align-center">
             <v-avatar size="48" class="mr-4 plugin-logo">
               <v-img
-                src="https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/mcp.png"
+                src="https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/mcp.png"
                 alt="MCP Logo"
                 :lazy-src="'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+'"
               >

@@ -1042,7 +1042,7 @@ return (_ctx, _cache) => {
                 }, {
                   default: _withCtx(() => [
                     _createVNode(_component_v_img, {
-                      src: "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png",
+                      src: "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png",
                       alt: "Heat Monitor"
                     }, {
                       placeholder: _withCtx(() => [

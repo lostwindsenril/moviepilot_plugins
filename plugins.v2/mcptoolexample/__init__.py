@@ -49,8 +49,8 @@ class McpToolExample(_PluginBase, MCPDecoratorMixin):
     plugin_desc = "演示如何向MCP Server注册自定义工具和提示"
     plugin_icon = ""
     plugin_version = "1.1"
-    plugin_author = "DzAvril"
-    author_url = "https://github.com/DzAvril"
+    plugin_author = "DzBvril"
+    author_url = "https://github.com/DzBvril"
     plugin_config_prefix = "mcptoolexample_"
     plugin_order = 99
     auth_level = 1

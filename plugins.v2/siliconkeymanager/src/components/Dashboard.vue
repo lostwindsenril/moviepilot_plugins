@@ -20,7 +20,7 @@
                 <div class="d-flex align-center">
                   <v-avatar size="40" class="mr-3 plugin-logo">
                     <v-img
-                      src="https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/siliconkey.png"
+                      src="https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/siliconkey.png"
                       alt="Silicon Key Logo"
                     >
                       <template v-slot:placeholder>
@@ -98,7 +98,7 @@
           <div class="d-flex align-center">
             <v-avatar size="48" class="mr-4 plugin-logo">
               <v-img
-                src="https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/siliconkey.png"
+                src="https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/siliconkey.png"
                 alt="Silicon Key Logo"
               >
                 <template v-slot:placeholder>

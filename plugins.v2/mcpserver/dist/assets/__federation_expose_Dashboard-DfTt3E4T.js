@@ -685,7 +685,7 @@ return (_ctx, _cache) => {
                               }, {
                                 default: _withCtx(() => [
                                   _createVNode(_component_v_img, {
-                                    src: "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/mcp.png",
+                                    src: "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/mcp.png",
                                     alt: "MCP Logo",
                                     "lazy-src": 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+'
                                   }, {
@@ -873,7 +873,7 @@ return (_ctx, _cache) => {
                     }, {
                       default: _withCtx(() => [
                         _createVNode(_component_v_img, {
-                          src: "https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/mcp.png",
+                          src: "https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/mcp.png",
                           alt: "MCP Logo",
                           "lazy-src": 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJjdXJyZW50Q29sb3IiLz4KPC9zdmc+'
                         }, {

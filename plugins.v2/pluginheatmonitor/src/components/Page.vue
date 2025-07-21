@@ -6,7 +6,7 @@
         <div class="d-flex align-center mb-4">
           <v-avatar size="48" class="mr-4">
             <v-img
-              src="https://raw.githubusercontent.com/DzAvril/MoviePilot-Plugins/main/icons/heatmonitor.png"
+              src="https://raw.githubusercontent.com/DzBvril/MoviePilot-Plugins/main/icons/heatmonitor.png"
               alt="Heat Monitor"
             >
               <template v-slot:placeholder>

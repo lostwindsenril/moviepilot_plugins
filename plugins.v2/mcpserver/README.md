@@ -547,4 +547,4 @@ def business_tool(self, input_data: str) -> dict:
 
 如有任何问题或建议，请通过以下方式联系：
 
-- GitHub Issues: [MoviePilot-Plugins](https://github.com/DzAvril/MoviePilot-Plugins)
+- GitHub Issues: [MoviePilot-Plugins](https://github.com/DzBvril/MoviePilot-Plugins)
